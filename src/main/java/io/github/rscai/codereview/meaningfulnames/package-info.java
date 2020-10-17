@@ -1,0 +1,1 @@
+package io.github.rscai.codereview.meaningfulnames;
